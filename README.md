@@ -20,7 +20,7 @@ also subscribers users are the least likely to take trip on weekends.
 
 ## Key Insights for Presentation
 
-> It seems like subscribers in both genders are using this service as a work transportaion.
+> It seems like subscribers in both genders are using this service as a work transportation.
 
 
 
